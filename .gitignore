@@ -4,6 +4,9 @@
 
 # Xcode
 #
+.vscode
+.prettierrc.js
+.eslintrc.js
 build/
 *.pbxuser
 !default.pbxuser
