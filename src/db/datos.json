@@ -1,0 +1,863 @@
+[
+  {
+    "Nombre": "Butano",
+    "Formula": "C4H10",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "106-97-8",
+    "NumeroUN": "1011",
+    "Etiqueta": ["GHS02"],
+    "Almacenamiento": "Manténgase en un lugar fresco y lejos de fuentes de ignición",
+    "Embalaje": "Almacenamiento bajo tierra en cupulas metálicas.",
+    "Derrames": "Llamar a las autoridades de emergencia (Bomberos y protección civil) y eliminar todas las fuentes de ignición.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "Irritación de ojos",
+        "Prevencion": "Utilizar protección adecuada durante su uso",
+        "Auxilios": "Utilizar protección adecuada durante su uso"
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "Irritación leve de piel",
+        "Prevencion": "No requiere cuidado",
+        "Auxilios": "Enjuagar con agua si lo desea"
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "Irritación respiratoria",
+        "Prevencion": "NO FUMAR durante su uso, retírese inmediatamente del área contaminada",
+        "Auxilios": "Acudir al médico y/o llamar a los números de emergencia"
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "Irritabilidad de garganta",
+        "Prevencion": "No comer durante su uso",
+        "Auxilios": "Acudir al médico"
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Ciclohexano",
+    "Formula": "C6H12",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "110-82-7",
+    "NumeroUN": "1145",
+    "Etiqueta": ["GHS02", "GHS07", "GHS08", "GHS09"],
+    "Almacenamiento": "Incombustible. Disposición para contener los efluentes de la extinción de incendios. Separado de oxidantes fuertes. Almacenar en un área sin acceso a desagües o alcantarillas.",
+    "Embalaje": "Mantener el recipiente bien cerrado en un lugar seco y bien ventilado. Los contenedores que se abran deben volver a cerrarse cuidadosamente y mantenerse en posición vertical para evitar fugas. Almacenar bajo gas inerte.",
+    "Derrames": "Llamar al 911, Retirar al personal del lugar y ventilar los lugares cerrados. Eliminar toda fuente de ignición.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "Irritación ocular",
+        "Prevencion": "Evitar el contacto con los ojos, usar lentes de seguridad durante su uso.",
+        "Auxilios": "Evitar el contacto con los ojos, usar lentes de seguridad durante su uso."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "Irritación cutánea",
+        "Prevencion": "Evitar el contacto con la piel, usar equipo contra explosiones.",
+        "Auxilios": "Lavar con agua la zona afectada, aislar la ropa y de ser necesario acudir al médico."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "Irritación respiratoria",
+        "Prevencion": "Evitar la inhalación de los vapores",
+        "Auxilios": "Abandonar la zona contaminada, respirar aire fresco y consultar al médico si se presentan síntomas."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "Irritación del tracto digestivo",
+        "Prevencion": "Evitar el consumo de alimentos durante su uso.",
+        "Auxilios": "Acudir urgentemente al médico"
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Cicleptano",
+    "Formula": "C7H14",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "291-64-5",
+    "NumeroUN": "2241",
+    "Etiqueta": ["GHS02", "GHS08"],
+    "Almacenamiento": "Almacenar en un lugar lejos de fuentes de ignición y fresco.",
+    "Embalaje": "Mantener el recipiente bien cerrado en un lugar seco y bien ventilado. Los contenedores que se abran deben volver a cerrarse cuidadosamente y mantenerse en posición vertical para evitar fugas.",
+    "Derrames": "Llamar al 911, Retirar al personal del lugar y ventilar los lugares cerrados. Eliminar toda fuente de ignición. Recoger el líquido derramado o derramado en recipientes de metal o vidrio con cierre hermético, en la medida de lo posible. Absorber el líquido restante en arena o absorbente inerte. Luego almacene y elimine de acuerdo con las regulaciones locales.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "Puede provocar irritación",
+        "Prevencion": "Evitar el contacto con los ojos, usar lentes de seguridad durante su uso.",
+        "Auxilios": "Enjuagar con abundante agua durante al menos 15 minutos."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "Si se deja en la ropa, puede provocar enrojecimiento de la piel",
+        "Prevencion": "Evitar el contacto con la piel, usar equipo contra explosiones.",
+        "Auxilios": "Enjuagar con agua y consultar un médico si se considera necesario."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "La inhalación o el contacto con el material puede irritar o quemar la piel y los ojos.",
+        "Prevencion": "Evitar la inhalación de los vapores",
+        "Auxilios": "Solicitar asistencia médica. Llevar a la víctima al aire fresco. Si no respira, dar respiración artificial. Si la respiración es difícil, proporcione oxigeno"
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "El primer medio de ingestión es por la inhalación",
+        "Prevencion": "Evitar el consumo de alimentos durante su uso.",
+        "Auxilios": "Consultar al médico si se considera necesario"
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Decano",
+    "Formula": "C10H22",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "124-18-5",
+    "NumeroUN": "2247",
+    "Etiqueta": ["GHS02", "GHS08"],
+    "Almacenamiento": "Almacenar en un lugar lejos de fuentes de ignición y fresco.",
+    "Embalaje": "Mantener el recipiente bien cerrado en un lugar seco y bien ventilado. Los contenedores que se abran deben volver a cerrarse cuidadosamente y mantenerse en posición vertical para evitar fugas. Almacenar bajo gas inerte.",
+    "Derrames": "Llamar al 911, Retirar al personal del lugar y ventilar los lugares cerrados. Eliminar toda fuente de ignición. Recoger el líquido derramado o derramado en recipientes de metal o vidrio con cierre hermético, en la medida de lo posible. Absorber el líquido restante en arena o absorbente inerte. Luego almacene y elimine de acuerdo con las regulaciones locales.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "Irritación ocular",
+        "Prevencion": "Evitar el contacto con los ojos.",
+        "Auxilios": "Enjuagar con abundante agua por al menos 15 minutos, llamar al médico y transportarse al hospital."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "Abandonar la zona contaminada, respirar aire fresco y consultar al médico si se presentan síntomas.",
+        "Prevencion": "Evitar el contacto con la piel, usar equipo contra explosiones.",
+        "Auxilios": "Lavar con agua la zona afectada, aislar la ropa y de ser necesario acudir al médico."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "Respiración rápida, fatiga, dolor de cabeza, mareos y otros efectos en el sistema nervioso central.",
+        "Prevencion": "Evitar la inhalación de los vapores",
+        "Auxilios": "Abandonar la zona contaminada, respirar aire fresco y consultar al médico si se presentan síntomas."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "El primer medio de ingestión es por la inhalación",
+        "Prevencion": "Evitar el consumo de alimentos durante su uso.",
+        "Auxilios": "Consultar al médico si se considera necesario"
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Heptano",
+    "Formula": "C7H16",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "142-82-5 ",
+    "NumeroUN": "1206",
+    "Etiqueta": ["GHS02", "GHS08", "GHS09"],
+    "Almacenamiento": "Incombustible. Separado de oxidantes fuertes. Almacenar en un área sin acceso a desagües o alcantarillas.",
+    "Embalaje": "Incombustible. Separado de oxidantes fuertes. Almacenar en un área sin acceso a desagües o alcantarillas. Disposición para contener los efluentes de la extinción de incendios.",
+    "Derrames": "Llamar al 911, Retirar al personal del lugar y ventilar los lugares cerrados. Eliminar toda fuente de ignición. Recoger el líquido derramado o derramado en recipientes de metal o vidrio con cierre hermético, en la medida de lo posible. Absorber el líquido restante en arena o absorbente inerte. Luego almacene y elimine de acuerdo con las regulaciones locales.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "Irritación de los ojos",
+        "Prevencion": "Usar lentes adecuados de protección para ojos",
+        "Auxilios": "Si este producto químico entra en contacto con los ojos, lávelos (irríguelos) inmediatamente con grandes cantidades de agua, levantando ocasionalmente los párpados superior e inferior. Obtenga atención médica de inmediato."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "Irritación de la piel",
+        "Prevencion": "Evitar el contacto con la piel, usar equipo contra explosiones.",
+        "Auxilios": "Lave inmediatamente la piel contaminada con agua y jabón. Si este químico penetra en la ropa, quítela inmediatamente y lave la piel con agua y jabón. Obtenga atención médica con prontitud."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "Provocará tos o dificultad para respirar",
+        "Prevencion": "Evitar la inhalación de los vapores",
+        "Auxilios": "Solicitar asistencia médica. Llevar a la víctima al aire fresco. Si no respira, dar respiración artificial. Si la respiración es difícil, proporcione oxigeno"
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "Si se ingiere, provocará náuseas o vómitos",
+        "Prevencion": "No consumir alimentos durante su uso. Evitar fumar.",
+        "Auxilios": "Consultar al médico si se considera necesario"
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Isobutano",
+    "Formula": "C4H10",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "75-28-5",
+    "NumeroUN": "1969",
+    "Etiqueta": ["GHS02", "GHS04"],
+    "Almacenamiento": "Incombustible. Fresco.",
+    "Embalaje": "Mantener el recipiente bien cerrado en un lugar seco y bien ventilado. Contenidos bajo presión. Clase de almacenamiento (TRGS 510): Gases.",
+    "Derrames": "¡Evacuar la zona de peligro! ¡Consulta a un experto! Ventilación. Retire todas las fuentes de ignición. NUNCA dirija el chorro de agua sobre el líquido. Protección personal: respirador con filtro para vapores orgánicos de bajo punto de ebullición adaptado a la concentración de la sustancia en el aire.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "irritación ocular y/o posible congelamiento",
+        "Prevencion": "Uso de equipo de protección adecuado",
+        "Auxilios": "Si el tejido del ojo está congelado, busque atención médica de inmediato; Si el tejido no está congelado, enjuague inmediatamente y a fondo los ojos con grandes cantidades de agua durante al menos 15 minutos, levantando ocasionalmente los párpados superior e inferior. Si persiste la irritación, el dolor, la hinchazón, el lagrimeo o la fotofobia, busque atención médica lo antes posible."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "Irritación y/o posible congelamiento",
+        "Prevencion": "Evitar el contacto directo, Usar trajes contra explosiones",
+        "Auxilios": "Si se ha producido congelación, busque atención médica de inmediato; NO frote las áreas afectadas ni las enjuague con agua. Para evitar mayores daños a los tejidos, NO intente quitar la ropa congelada de las áreas congeladas. Si NO se ha producido congelación, lave inmediata y minuciosamente la piel contaminada con agua y jabón."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "Intoxicación por los gases, irritación nasal.",
+        "Prevencion": "Evitar la inhalación, Usar mascarillas de protección adecuadas.",
+        "Auxilios": "Si una persona respira grandes cantidades de esta sustancia química, traslade a la persona expuesta al aire libre de inmediato. Si la respiración se ha detenido, realice respiración artificial. Mantener a la víctima caliente y en reposo. Obtenga atención médica lo antes posible."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "La ingestión se produce por la inhalación",
+        "Prevencion": "Evitar el consumo de alimentos durante su uso.",
+        "Auxilios": "Consultar al médico si se considera necesario"
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Isoctano",
+    "Formula": "C8H18",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "540-84-1",
+    "NumeroUN": "1262",
+    "Etiqueta": ["GHS02", "GHS07", "GHS08", "GHS09"],
+    "Almacenamiento": "Incombustible. Separado de oxidantes fuertes. Fresco. Mantener en una habitación bien ventilada.",
+    "Embalaje": "Mantener el recipiente bien cerrado en un lugar seco y bien ventilado. Los contenedores que se abran deben volver a cerrarse cuidadosamente y mantenerse en posición vertical para evitar fugas.",
+    "Derrames": "¡Evacuar la zona de peligro! Protección personal: aparato respiratorio autónomo. Retire todas las fuentes de ignición. Recoja en la medida de lo posible el líquido derramado o derramado en recipientes con cierre hermético. Absorber el líquido restante en arena o absorbente inerte. Luego almacene y elimine de acuerdo con las regulaciones locales.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "El contacto con el material puede irritar o quemar los ojos",
+        "Prevencion": "Uso de equipo de protección adecuado",
+        "Auxilios": "Primero enjuague con abundante agua durante varios minutos (quítese los lentes de contacto si es fácilmente posible), luego consulte a un médico."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "El contacto con el material puede irritar o quemar la piel",
+        "Prevencion": "Evitar el contacto con la piel, usar equipo contra explosiones.",
+        "Auxilios": "Quitar la ropa contaminada. Enjuague y luego lave la piel con agua y jabón."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "Los vapores pueden provocar mareos o asfixia.",
+        "Prevencion": "Evitar la inhalación, Usar mascarillas de protección adecuadas.",
+        "Auxilios": "Aire fresco, descanso. Puede que sea necesaria la respiración artificial. Remitir para atención médica."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "El primer medio de ingestión es por la inhalación",
+        "Prevencion": "Evitar el consumo de alimentos durante su uso. Evitar fumar.",
+        "Auxilios": "Enjuague la boca. No induzca el vómito. Remitir para atención médica."
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Metano",
+    "Formula": "CH4",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "74-82-8",
+    "NumeroUN": "1971",
+    "Etiqueta": ["GHS02", "GHS04"],
+    "Almacenamiento": "Incombustible. Fresco.",
+    "Embalaje": "Incombustible. Fresco. Ventilación a lo largo del suelo y techo.",
+    "Derrames": "Llamar al 911, Retirar al personal del lugar y ventilar los lugares cerrados. Eliminar toda fuente de ignición. Recoger el líquido derramado o derramado en recipientes de metal o vidrio con cierre hermético, en la medida de lo posible. Absorber el líquido restante en arena o absorbente inerte. Luego almacene y elimine de acuerdo con las regulaciones locales.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "Puede causar irritación y congelamiento",
+        "Prevencion": "Evitar el contacto con los ojos.",
+        "Auxilios": "Primero enjuague con abundante agua durante varios minutos (quítese los lentes de contacto si es fácilmente posible), luego consulte a un médico."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "El contacto con gas o gas licuado puede provocar quemaduras, lesiones graves y/o congelación.",
+        "Prevencion": "Evitar el contacto directo.",
+        "Auxilios": "POR CONGELACIÓN: enjuagar con abundante agua, NO quitar la ropa. Remitir para atención médica."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "Puede provocar asfixia y depresión del SNC",
+        "Prevencion": "Evitar la inhalación de altas concentraciones del gas.",
+        "Auxilios": "Aire fresco, descanso. Puede que sea necesaria la respiración artificial. Remitir para atención médica."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "El primer medio de ingestión es por la inhalación",
+        "Prevencion": "Evitar el consumo de alimentos durante su uso.",
+        "Auxilios": "Consultar al médico si se considera necesario"
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Neohexano",
+    "Formula": "C6H14",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "75-83-2",
+    "NumeroUN": "1208",
+    "Etiqueta": ["GHS02", "GHS07", "GHS08", "GHS09"],
+    "Almacenamiento": "Con el tiempo, la presión puede aumentar y provocar que los contenedores exploten. Manipule y abra el recipiente con cuidado. Sensible a la humedad.",
+    "Embalaje": "Mantener el recipiente bien cerrado en un lugar seco y bien ventilado. Los contenedores que se abran deben volver a cerrarse cuidadosamente y mantenerse en posición vertical para evitar fugas.",
+    "Derrames": "Llamar al 911, Retirar al personal del lugar y ventilar los lugares cerrados. Eliminar toda fuente de ignición. Recoger el líquido derramado o derramado en recipientes de metal o vidrio con cierre hermético, en la medida de lo posible. Absorber el líquido restante en arena o absorbente inerte. Luego almacene y elimine de acuerdo con las regulaciones locales.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "El contacto con el líquido provoca irritación de los ojos",
+        "Prevencion": "Evite el contacto con los ojos, use equipo de protección adecuado.",
+        "Auxilios": "Enjuague los ojos de la víctima con agua o solución salina normal durante 20 a 30 minutos mientras llama simultáneamente a un hospital o centro de control de intoxicaciones. No aplique ningún ungüento, aceite o medicamento en los ojos de la víctima sin instrucciones específicas de un médico. Transporte INMEDIATAMENTE a la víctima después de enjuagarse los ojos a un hospital, incluso si no se desarrollan síntomas (como enrojecimiento o irritación)"
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "El contacto repetido puede producir irritación de la piel",
+        "Prevencion": "Siempre que sea posible, se debe utilizar un aparato de respiración autónomo (SCBA); si no está disponible, utilice un nivel de protección mayor o igual al recomendado en Ropa protectora.",
+        "Auxilios": "Inundar INMEDIATAMENTE la piel afectada con agua mientras se retira y aísla toda la ropa contaminada. Lave suavemente todas las áreas de la piel afectadas con agua y jabón. Si se desarrollan síntomas como enrojecimiento o irritación, llame INMEDIATAMENTE a un médico y esté preparado para transportar a la víctima a un hospital para recibir tratamiento."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "La inhalación provoca mareos, náuseas y vómitos. La aspiración causa irritación pulmonar grave, edema pulmonar de rápido desarrollo y excitación del sistema nervioso central seguida de depresión",
+        "Prevencion": "Evite la inhalación, use equipo adecuado durante su uso.",
+        "Auxilios": "Abandonar INMEDIATAMENTE el área contaminada; respire profundamente aire fresco. Si se desarrollan síntomas (como sibilancias, tos, dificultad para respirar o ardor en la boca, garganta o pecho), llame a un médico y esté preparado para transportar a la víctima a un hospital. Proporcione protección respiratoria adecuada a los rescatistas que ingresan a una atmósfera desconocida. Siempre que sea posible, se debe utilizar un aparato de respiración autónomo (SCBA); si no está disponible, utilice un nivel de protección mayor o igual al recomendado en Ropa protectora."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "La ingestión causa irritación del estómago",
+        "Prevencion": "Evitar el consumo de alimentos durante su uso.",
+        "Auxilios": "NO INDUCIR EL VÓMITO. Los productos químicos volátiles tienen un alto riesgo de ser aspirados a los pulmones de la víctima durante el vómito, lo que aumenta los problemas médicos. Si la víctima está consciente y no tiene convulsiones, dele 1 o 2 vasos de agua para diluir el químico y llame INMEDIATAMENTE a un hospital o centro de control de intoxicaciones. Transportar INMEDIATAMENTE a la víctima a un hospital. Si la víctima tiene convulsiones o está inconsciente, no le dé nada por la boca, asegúrese de que las vías respiratorias de la víctima estén abiertas y acueste a la víctima de lado con la cabeza más baja que el cuerpo"
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Octano",
+    "Formula": "C8H18",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "111-65-9",
+    "NumeroUN": "1262",
+    "Etiqueta": ["GHS02", "GHS07", "GHS08", "GHS09"],
+    "Almacenamiento": "Incombustible. Separado de oxidantes fuertes. Fresco. Ventilación a lo largo del suelo.",
+    "Embalaje": "Almacenar en lugar fresco. Mantener el recipiente bien cerrado en un lugar seco y bien ventilado. Los contenedores que se abran deben volver a cerrarse cuidadosamente y mantenerse en posición vertical para evitar fugas.",
+    "Derrames": "¡Evacuar la zona de peligro! Ventilación. Recoja en la medida de lo posible el líquido derramado o derramado en recipientes con cierre hermético. Absorber el líquido restante en arena o absorbente inerte. Luego almacene y elimine de acuerdo con las regulaciones locales. NO lo lave en la alcantarilla. No permita que este producto químico se incorpore al ambiente. Protección personal: aparato respiratorio autónomo.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "El líquido puede causar irritación de los ojos",
+        "Prevencion": "Evite el contacto con los ojos, use equipo de protección adecuado.",
+        "Auxilios": "IRRIGAR INMEDIATAMENTE: si este producto químico entra en contacto con los ojos, lávelos (irríguelos) inmediatamente con grandes cantidades de agua, levantando ocasionalmente los párpados superior e inferior. Obtenga atención médica de inmediato."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "(en caso de contacto prolongado) irritación y agrietamiento de la piel",
+        "Prevencion": "Siempre que sea posible, se debe utilizar un aparato de respiración autónomo (SCBA); si no está disponible, utilice un nivel de protección mayor o igual al recomendado en Ropa protectora.",
+        "Auxilios": "LAVAR INMEDIATAMENTE CON JABÓN: si este químico entra en contacto con la piel, lave inmediatamente la piel contaminada con agua y jabón. Si este químico penetra en la ropa, quítela inmediatamente y lave la piel con agua y jabón. Obtenga atención médica con prontitud."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "La inhalación de vapor concentrado puede causar irritación del tracto respiratorio, depresión y edema pulmonar.",
+        "Prevencion": "Evite la inhalación, use equipo adecuado durante su uso.",
+        "Auxilios": "APOYO RESPIRATORIO: si una persona respira grandes cantidades de esta sustancia química, traslade a la persona expuesta al aire libre de inmediato. Si la respiración se ha detenido, realice respiración artificial. Mantener a la víctima caliente y en reposo. Obtenga atención médica lo antes posible."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "La ingestión causa irritación de la boca y el estómago.",
+        "Prevencion": "No consuma alimentos durante su uso. Use mascarillas de protección adecuadas.",
+        "Auxilios": "ATENCIÓN MÉDICA INMEDIATA: Si se ha ingerido este químico, busque atención médica de inmediato"
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Propano",
+    "Formula": "C3H8",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "74-98-6",
+    "NumeroUN": "1978",
+    "Etiqueta": ["GHS02", "GHS04"],
+    "Almacenamiento": "Incombustible. Fresco.",
+    "Embalaje": "LOS GASES COMPRIMIDOS PUEDEN ALMACENARSE AL AIRE LIBRE SÓLO SI ESTÁN ADECUADAMENTE PROTEGIDOS DEL CLIMA Y DE LA LUZ SOLAR DIRECTA. LAS ÁREAS DE ALMACENAMIENTO DEBEN ESTAR UBICADAS A UNA DISTANCIA SEGURA DE LOS LOCALES OCUPADOS Y DE LAS VIVIENDAS VECINAS. /GASES Y AIRE COMPRIMIDO",
+    "Derrames": "¡Evacuar la zona de peligro! ¡Consulta a un experto! Protección personal: aparato respiratorio autónomo. Retire todas las fuentes de ignición. Ventilación. NUNCA dirija el chorro de agua sobre el líquido.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "El contacto con gas o gas licuado puede provocar quemaduras, lesiones graves y/o congelación.",
+        "Prevencion": "Usar lentes adecuados de protección para ojos",
+        "Auxilios": "si el tejido del ojo está congelado, busque atención médica de inmediato; Si el tejido no está congelado, enjuague inmediatamente y a fondo los ojos con grandes cantidades de agua durante al menos 15 minutos, levantando ocasionalmente los párpados superior e inferior. Si persiste la irritación, el dolor, la hinchazón, el lagrimeo o la fotofobia, busque atención médica lo antes posible."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "El contacto con gas o gas licuado puede provocar quemaduras, lesiones graves y/o congelación.",
+        "Prevencion": "Evitar el contacto con la piel, usar equipo contra explosiones.",
+        "Auxilios": "Si se ha producido congelación, busque atención médica de inmediato; NO frote las áreas afectadas ni las enjuague con agua. Para evitar mayores daños a los tejidos, NO intente quitar la ropa congelada de las áreas congeladas. Si NO se ha producido congelación, lave inmediata y minuciosamente la piel contaminada con agua y jabón."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "Concentraciones en el aire superiores al 10% provocan mareos en pocos minutos. Asfixia.",
+        "Prevencion": "Evitar la inhalación, Usar mascarillas de protección adecuadas.",
+        "Auxilios": "APOYO RESPIRATORIO: si una persona respira grandes cantidades de esta sustancia química, traslade a la persona expuesta al aire libre de inmediato. Si la respiración se ha detenido, realice respiración artificial. Mantener a la víctima caliente y en reposo. Obtenga atención médica lo antes posible."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "La ingestión se produce por la inhalación",
+        "Prevencion": "Evitar consumir alimentos durante su uso",
+        "Auxilios": "Acudir al médico."
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Cicloheptano",
+    "Formula": "C7H14",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "291-64-5",
+    "NumeroUN": "2241",
+    "Etiqueta": ["GHS02", "GHS08"],
+    "Almacenamiento": "Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades: Almacenar en lugar fresco.",
+    "Embalaje": "Mantener el recipiente bien cerrado en un lugar seco y bien ventilado. Los contenedores que se abran deben volver a cerrarse cuidadosamente y mantenerse en posición vertical para evitar fugas.",
+    "Derrames": "Llamar al 911, Retirar al personal del lugar y ventilar los lugares cerrados. Eliminar toda fuente de ignición. Recoger el líquido derramado o derramado en recipientes de metal o vidrio con cierre hermético, en la medida de lo posible. Absorber el líquido restante en arena o absorbente inerte. Luego almacene y elimine de acuerdo con las regulaciones locales",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "Puede causar irritación de los ojos",
+        "Prevencion": "Evitar el contacto con los ojos, usar lentes de seguridad durante su uso.",
+        "Auxilios": "Enjuagar con abundante agua durante al menos 15 minutos."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "Si se deja en la ropa, puede provocar enrojecimiento de la piel",
+        "Prevencion": "Evitar el contacto directo con la piel. Usar equipo de protección adecuado.",
+        "Auxilios": "Enjuague con agua"
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "La inhalación de altas concentraciones puede causar pérdida del conocimiento",
+        "Prevencion": "Evite la inhalación, use equipo adecuado durante su uso.",
+        "Auxilios": "Solicitar asistencia médica. Llevar a la víctima al aire fresco. Si no respira, dar respiración artificial. Si la respiración es difícil, proporcione oxigeno"
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "",
+        "Prevencion": "",
+        "Auxilios": ""
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Ciclopropano",
+    "Formula": "C3H6",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "75-19-4",
+    "NumeroUN": "1027",
+    "Etiqueta": ["GHS02", "GHS04"],
+    "Almacenamiento": "Incombustible. Fresco.",
+    "Embalaje": "LOS GASES COMPRIMIDOS PUEDEN ALMACENARSE AL AIRE LIBRE SÓLO SI ESTÁN ADECUADAMENTE PROTEGIDOS DEL CLIMA Y DE LA LUZ SOLAR DIRECTA. LAS ÁREAS DE ALMACENAMIENTO DEBEN ESTAR UBICADAS A UNA DISTANCIA SEGURA DE LOS LOCALES OCUPADOS Y DE LAS VIVIENDAS VECINAS. /GASES Y AIRE COMPRIMIDO",
+    "Derrames": "¡Evacuar la zona de peligro! ¡Consulta a un experto! Protección personal: aparato respiratorio autónomo. Retire todas las fuentes de ignición. Ventilación. NUNCA dirija el chorro de agua sobre el líquido.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "El contacto con el líquido puede provocar congelación.",
+        "Prevencion": "Evite el contacto con los ojos, use equipo de protección adecuado.",
+        "Auxilios": "Enjuague con abundante agua y acuda al médico de inmediato si se ha producido congelamiento."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "El contacto con el líquido puede provocar congelación.",
+        "Prevencion": "Evitar el contacto con la piel, usar equipo contra explosiones.",
+        "Auxilios": "si se ha producido congelación, aplicar agua tibia; tratar la quemadura"
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "La inhalación provoca algo de analgesia, anestesia, dilatación de la pupila, respiración poco profunda y disminución del tono muscular.",
+        "Prevencion": "Evitar la inhalación del producto, usar mascarillas adecuadas para su uso.",
+        "Auxilios": "Trasladar rápidamente al aire libre; si persisten los síntomas de asfixia, administrar respiración artificial y oxígeno; tratar sintomáticamente a partir de entonces."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "La ingestión se produce por la inhalación",
+        "Prevencion": "Evitar consumir alimentos durante su uso",
+        "Auxilios": "Acudir al médico."
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Decalin",
+    "Formula": "C10H18",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "91-17-8",
+    "NumeroUN": "1147",
+    "Etiqueta": ["GHS02", "GHS05", "GHS07", "GHS08", "GHS09"],
+    "Almacenamiento": "Incombustible. Separado de oxidantes. Fresco. Manténgase en la oscuridad. Bien cerrado. ",
+    "Embalaje": "Manipule y almacene bajo nitrógeno. Se pueden formar peróxidos potencialmente explosivos si se almacena durante mucho tiempo en contacto con el aire. La luz y el calor aceleran la formación de peróxido.",
+    "Derrames": "Protección personal: traje de protección química que incluya aparato respiratorio autónomo. No permita que este producto químico se incorpore al ambiente. Ventilación. Recoja el líquido que gotea en recipientes sellables. Recoja con cuidado el resto. Luego almacene y elimine de acuerdo con las regulaciones locales.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "Irrita los ojos.",
+        "Prevencion": "Evite el contacto con los ojos, use equipo de protección adecuado.",
+        "Auxilios": "Enjuagar con agua durante al menos 15 min."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "El líquido desengrasa la piel y provoca grietas e infecciones secundarias; puede desarrollarse eccema.",
+        "Prevencion": "Evitar el contacto con la piel, usar equipo contra explosiones.",
+        "Auxilios": "lavar con agua y jabón suave."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "La inhalación o ingestión irrita la nariz y la garganta, provoca entumecimiento, dolor de cabeza, vómitos; la orina puede volverse azul.",
+        "Prevencion": "Evitar la inhalación del producto, usar mascarillas adecuadas para su uso.",
+        "Auxilios": "Sacar al aire libre"
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "Puede ser muy tóxico en caso de ingestión.",
+        "Prevencion": "No consuma alimentos durante su uso. Use mascarillas de protección adecuadas.",
+        "Auxilios": "Dé un emético como agua tibia con sal, seguido de un catártico suave; médico directo para conservar la función hepática y renal."
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Etano",
+    "Formula": "CH3CH3",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "74-84-0",
+    "NumeroUN": "1035",
+    "Etiqueta": ["GHS02"],
+    "Almacenamiento": "Incombustible. Fresco. Separado de oxidantes fuertes y halógenos.",
+    "Embalaje": "Mantener el recipiente bien cerrado en un lugar seco y bien ventilado.",
+    "Derrames": "¡Evacuar la zona de peligro! ¡Consulta a un experto! Protección personal: aparato respiratorio autónomo. Ventilación. Retire todas las fuentes de ignición. NUNCA dirija el chorro de agua sobre el líquido.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "No irrita ojos",
+        "Prevencion": "Evitar el contacto con los ojos.",
+        "Auxilios": "Enjuagar con abundante agua."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "Al ser gas comprimido puede causar congelamiento.",
+        "Prevencion": "Evitar el contacto con la piel, usar equipo contra explosiones.",
+        "Auxilios": ""
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "No irrita garganta, sin embargo, en altas concentraciones puede producir asfixia.",
+        "Prevencion": "Usar mascarillas de protección adecuada.",
+        "Auxilios": "Retirar de la exposición; apoyar la respiración."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "La ingestión se produce por la inhalación",
+        "Prevencion": "No consuma alimentos durante su uso. Use mascarillas de protección adecuadas.",
+        "Auxilios": "Acudir al médico."
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Hexano",
+    "Formula": "C6H14",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "110-54-3",
+    "NumeroUN": "1208",
+    "Etiqueta": ["GHS02", "GHS07", "GHS08", "GHS09"],
+    "Almacenamiento": "Incombustible. Separado de oxidantes fuertes. Bien cerrado.",
+    "Embalaje": "Los tambores deben almacenarse en un área bien ventilada en contenedores resistentes al fuego. Los contenedores metálicos deben estar conectados a tierra cuando se transfiere líquido.",
+    "Derrames": "¡Consulta a un experto! Protección personal: respirador con filtro para gases y vapores orgánicos adaptado a la concentración de la sustancia en el aire. Retire todas las fuentes de ignición. NO lo lave en la alcantarilla. No permita que este producto químico se incorpore al ambiente. Recoja en la medida de lo posible el líquido derramado o derramado en recipientes con cierre hermético. Absorber el líquido restante en arena o absorbente inerte. Luego almacene y elimine de acuerdo con las regulaciones locales.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "Irrita los ojos, la nariz y las vías respiratorias.",
+        "Prevencion": "Evite el contacto con los ojos, use equipo de protección adecuado.",
+        "Auxilios": "Primero enjuague con abundante agua durante varios minutos (quítese los lentes de contacto si es fácilmente posible), luego consulte a un médico."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "Irritación de la piel",
+        "Prevencion": "Evitar el contacto directo con la piel. Usar equipo de protección adecuado.",
+        "Auxilios": "Quitar la ropa contaminada. Enjuague y luego lave la piel con agua y jabón. Remitir para atención médica."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "LA INHALACIÓN provoca irritación de las vías respiratorias, tos, depresión leve, arritmias cardíacas.",
+        "Prevencion": "Evitar la inhalación, Usar mascarillas de protección adecuadas.",
+        "Auxilios": "Aire fresco, descanso. Remitir para atención médica."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "LA INGESTIÓN causa náuseas, vómitos, hinchazón del abdomen, dolor de cabeza, depresión.",
+        "Prevencion": "No consuma alimentos durante su uso. Use mascarillas de protección adecuadas.",
+        "Auxilios": "Enjuague la boca. No induzca el vómito. Descansar. Remitir para atención médica."
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Isohexano",
+    "Formula": "C6H14",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "107-83-5",
+    "NumeroUN": "1208",
+    "Etiqueta": ["GHS02", "GHS07", "GHS08", "GHS09"],
+    "Almacenamiento": "Mantener el recipiente bien cerrado en un lugar seco y bien ventilado. Los contenedores que se abran deben volver a cerrarse cuidadosamente y mantenerse en posición vertical para evitar fugas.",
+    "Embalaje": "Incombustible. Enfriado. Separado de oxidantes fuertes. Almacenar en un área sin acceso a desagües o alcantarillas. NO almacene ni transporte en contenedores hechos de plástico.",
+    "Derrames": "¡Evacuar la zona de peligro! ¡Consulta a un experto! Protección personal: respirador con filtro para gases y vapores orgánicos de bajo punto de ebullición adaptado a la concentración de la sustancia en el aire. Retire todas las fuentes de ignición. Ventilación. NO lo lave en la alcantarilla. No permita que este producto químico se incorpore al ambiente. En la medida de lo posible, recoja el líquido derramado o derramado en recipientes que no sean de plástico con cierre hermético. Absorber el líquido restante en arena o absorbente inerte. Lavar el resto con abundante agua. Luego almacene y elimine de acuerdo con las regulaciones locales.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "Irrita los ojos.",
+        "Prevencion": "Evite el contacto con los ojos, use equipo de protección adecuado.",
+        "Auxilios": "Lavar con abundante agua."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "Puede provocar irritación en la piel.",
+        "Prevencion": "Evitar el contacto directo con la piel. Usar equipo de protección adecuado.",
+        "Auxilios": "Limpiar, lavar con agua y jabón"
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "La inhalación provoca irritación del tracto respiratorio, tos, depresión leve, arritmias cardíacas. La aspiración provoca irritación pulmonar grave, tos, edema pulmonar; excitación seguida de depresión.",
+        "Prevencion": "Evitar la inhalación, Usar mascarillas de protección adecuadas.",
+        "Auxilios": "Mantener la respiración, administrar oxígeno si es necesario."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "La ingestión provoca náuseas, vómitos, hinchazón del abdomen, dolor de cabeza y depresión.",
+        "Prevencion": "No consuma alimentos durante su uso. Use mascarillas de protección adecuadas.",
+        "Auxilios": "NO inducir el vómito; llame a un médico."
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Isopentano",
+    "Formula": "C5H12",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "78-78-4",
+    "NumeroUN": "1265",
+    "Etiqueta": ["GHS02", "GHS07", "GHS08", "GHS09"],
+    "Almacenamiento": "Incombustible. Bien cerrado. Separado de oxidantes fuertes. Almacenar en un área sin acceso a desagües o alcantarillas. Disposición para contener los efluentes de la extinción de incendios.",
+    "Embalaje": "Mantener el recipiente bien cerrado en un lugar seco y bien ventilado. Los contenedores que se abran deben volver a cerrarse cuidadosamente y mantenerse en posición vertical para evitar fugas. Temperatura de almacenamiento recomendada 2-8 °C Refrigerar antes de abrir. Manipule y abra el recipiente con cuidado.",
+    "Derrames": "¡Evacuar la zona de peligro! ¡Consulta a un experto! Protección personal: respirador con filtro para gases y vapores orgánicos de bajo punto de ebullición adaptado a la concentración de la sustancia en el aire. Retire todas las fuentes de ignición. No permita que este producto químico se incorpore al ambiente. Recoja en la medida de lo posible el líquido derramado o derramado en recipientes con cierre hermético. Absorber el líquido restante en arena o absorbente inerte. Luego almacene y elimine de acuerdo con las regulaciones locales. NO lo lave en la alcantarilla.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "El contacto con los ojos causa irritación.",
+        "Prevencion": "Evite el contacto con los ojos, use equipo de protección adecuado.",
+        "Auxilios": "Enjuague con abundante agua (quítese las lentes de contacto si es fácilmente posible)."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "El contacto con la piel causa irritación. Primero enjuague con abundante agua durante al menos 15 minutos, luego retire la ropa contaminada y enjuague nuevamente.",
+        "Prevencion": "Evitar el contacto directo con la piel. Usar equipo de protección adecuado.",
+        "Auxilios": "Primero enjuague con abundante agua durante al menos 15 minutos, luego retire la ropa contaminada y enjuague nuevamente."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "La inhalación provoca irritación del tracto respiratorio, tos, depresión leve y latidos cardíacos irregulares. La aspiración provoca irritación pulmonar grave, tos, edema pulmonar; excitación seguida de depresión.",
+        "Prevencion": "Evitar la inhalación, Usar mascarillas de protección adecuadas.",
+        "Auxilios": "Aire fresco, descanso. Remitir para atención médica."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "La ingestión provoca náuseas, vómitos, hinchazón del abdomen, dolor de cabeza y depresión.",
+        "Prevencion": "No consuma alimentos durante su uso. Use mascarillas de protección adecuadas.",
+        "Auxilios": "Enjuague la boca. No induzca el vómito. Consulte inmediatamente para recibir atención médica."
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Metilciclohexano",
+    "Formula": "C6H11CH3",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "108-87-2",
+    "NumeroUN": "2296",
+    "Etiqueta": ["GHS02", "GHS07", "GHS08", "GHS09"],
+    "Almacenamiento": "Incombustible. Separado de oxidantes fuertes.",
+    "Embalaje": "Los cuartos de almacenamiento deben estar delimitados para evitar la propagación del líquido que se escapa y las instalaciones eléctricas deben ser de tipo a prueba de llamas.",
+    "Derrames": "Protección personal: respirador con filtro para gases y vapores orgánicos adaptado a la concentración de la sustancia en el aire. Ventilación. Recoja en la medida de lo posible el líquido derramado o derramado en recipientes con cierre hermético. Absorba el líquido restante en arena seca o absorbente inerte. Luego almacene y elimine de acuerdo con las regulaciones locales. NO lo lave en la alcantarilla.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "El vapor o la niebla irritan los ojos y las mucosas",
+        "Prevencion": "Evite el contacto con los ojos, use equipo de protección adecuado.",
+        "Auxilios": "Primero enjuague con abundante agua durante varios minutos (quítese los lentes de contacto si es fácilmente posible), luego consulte a un médico."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "Irritación de la piel",
+        "Prevencion": "Evitar el contacto directo con la piel. Usar equipo de protección adecuado contra explosiones",
+        "Auxilios": "Quitar la ropa contaminada. Aclarar la piel con abundante agua o ducharse."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "Irritación del tracto respiratorio y las mucosas.",
+        "Prevencion": "Evitar la inhalación, Usar mascarillas de protección adecuadas.",
+        "Auxilios": "Aire fresco, descanso. Puede que sea necesaria la respiración artificial. Remitir para atención médica"
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "Efectos narcóticos y dermatitis.",
+        "Prevencion": "No consuma alimentos durante su uso. Use mascarillas de protección adecuadas.",
+        "Auxilios": "Enjuague la boca. Descansar. Remitir para atención médica."
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Nonano",
+    "Formula": "C9H20",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "111-84-2",
+    "NumeroUN": "1920",
+    "Etiqueta": ["GHS02", "GHS07", "GHS08", "GHS09"],
+    "Almacenamiento": "Incombustible. Separado de oxidantes fuertes. Almacenar en un área sin acceso a desagües o alcantarillas.",
+    "Embalaje": "Almacenar en lugar fresco. Mantener el recipiente bien cerrado en un lugar seco y bien ventilado. Los contenedores que se abran deben volver a cerrarse cuidadosamente y mantenerse en posición vertical para evitar fugas. Sensible a la humedad.",
+    "Derrames": "Protección personal: respirador con filtro para gases y vapores orgánicos adaptado a la concentración de la sustancia en el aire. Ventilación. Absorba el líquido restante en arena seca o absorbente inerte. Luego almacene y elimine de acuerdo con las regulaciones locales.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "El líquido puede irritar los ojos",
+        "Prevencion": "Evite el contacto con los ojos, use equipo de protección adecuado.",
+        "Auxilios": "Enjuague con abundante agua (quítese las lentes de contacto si es fácilmente posible)."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "El contacto prolongado puede irritar la piel",
+        "Prevencion": "Evitar el contacto directo con la piel. Usar equipo de protección adecuado contra explosiones",
+        "Auxilios": "Enjuague y luego lave la piel con agua y jabón. Consulte a un médico si se produce irritación de la piel."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "La inhalación de vapor concentrado provoca depresión, irritación del tracto respiratorio y edema pulmonar",
+        "Prevencion": "Evitar la inhalación, Usar mascarillas de protección adecuadas.",
+        "Auxilios": "Aire fresco, descanso. Remitir para atención médica."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "La ingestión causa irritación de la boca y el estómago. La aspiración causa irritación pulmonar grave, edema pulmonar de rápido desarrollo y excitación del sistema nervioso central seguida de depresión.",
+        "Prevencion": "No consuma alimentos durante su uso. Use mascarillas de protección adecuadas.",
+        "Auxilios": "Enjuague la boca. No induzca el vómito. Remitir para atención médica."
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  },
+  {
+    "Nombre": "Pentano",
+    "Formula": "C5H12",
+    "Grupo": "HIDRICARBUROS ALIFÁTICOS SATURADOS",
+    "NumeroCas": "109-66-0",
+    "NumeroUN": "1265",
+    "Etiqueta": ["GHS02", "GHS07", "GHS08", "GHS09"],
+    "Almacenamiento": "Temperatura de almacenamiento: ambiente. Ventilación: abierta (parallamas) o presión-vacío.",
+    "Embalaje": "Incombustible. Separado de oxidantes fuertes. Fresco. Bien cerrado. Almacenar en un área sin acceso a desagües o alcantarillas. Disposición para contener los efluentes de la extinción de incendios.",
+    "Derrames": "¡Evacuar la zona de peligro! ¡Consulta a un experto! Protección personal: respirador con filtro para gases y vapores orgánicos de bajo punto de ebullición adaptado a la concentración de la sustancia en el aire. Retire todas las fuentes de ignición. No permita que este producto químico se incorpore al ambiente. Recoja en la medida de lo posible el líquido derramado o derramado en recipientes con cierre hermético. Absorba el líquido restante en arena seca o absorbente inerte. Luego almacene y elimine de acuerdo con las regulaciones locales. NO lo lave en la alcantarilla.",
+    "Contacto": [
+      {
+        "Tipo": "Ojos",
+        "Sintomas": "Puede causar quemaduras en los ojos.",
+        "Prevencion": "Evite el contacto con los ojos, use equipo de protección adecuado.",
+        "Auxilios": "Enjuague con abundante agua (quítese las lentes de contacto si es fácilmente posible)."
+      },
+      {
+        "Tipo": "Piel",
+        "Sintomas": "Puede causar quemaduras en la piel.",
+        "Prevencion": "Evitar el contacto directo con la piel. Usar equipo de protección adecuado contra explosiones.",
+        "Auxilios": "Primero enjuague con abundante agua durante al menos 15 minutos, luego retire la ropa contaminada y enjuague nuevamente."
+      },
+      {
+        "Tipo": "Inhalacion",
+        "Sintomas": "La aspiración hacia los pulmones puede producir neumonitis química y/o edema pulmonar.",
+        "Prevencion": "Evitar la inhalación, Usar mascarillas de protección adecuadas.",
+        "Auxilios": "Aire fresco, descanso. Remitir para atención médica."
+      },
+      {
+        "Tipo": "Ingestión",
+        "Sintomas": "La ingestión puede provocar aspiración hacia los pulmones; Puede causar efectos en el SNC.",
+        "Prevencion": "No consuma alimentos durante su uso. Use mascarillas de protección adecuadas.",
+        "Auxilios": "Enjuague la boca. No induzca el vómito. Consulte inmediatamente para recibir atención médica."
+      }  
+    ],
+    "Exposición": {
+      "Corta": "Lore Ipsum",
+      "Larga": "Lore Ipsum"
+    }
+  }
+]
