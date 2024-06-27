@@ -13,7 +13,12 @@ export const Group = () => {
           {element ? element.Grupo : `Sin información`}
         </Text>
       </Text>
-
+      <Text variant="titleMedium" style={globalStyle.groupText}>
+        {'\n'}Fórmula:{' '}
+        <Text variant="titleMedium">
+          {element ? element.Formula : `Sin información`}
+        </Text>
+      </Text>
       <Text variant="titleMedium" style={globalStyle.groupText}>
         {'\n'}Número UN/NA:{' '}
         <Text variant="titleMedium">
